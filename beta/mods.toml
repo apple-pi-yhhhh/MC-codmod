@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+loaderVersion="[37,)" #mandatory
+license="All rights reserved"
+[[mods]] #mandatory
+modId="codmod" #mandatory
+version="1.0" #mandatory
+displayName="codmod" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+displayURL="https://www.codfish.tk" #optional
+#logoFile="mod-img.png" #optional
+#credits="" #optional
+authors="ごろごろの鱈教開発メンバー！！" #optional
+description=''' 
+鱈の鱈による鱈のための鱈。
+'''
